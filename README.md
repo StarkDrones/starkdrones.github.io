@@ -4,7 +4,7 @@ We have a CAES battery system (Compressed Air Energy Storage) that is almost 1/7
 
 **About:** Stark Drones is an emerging company that participates in sensory networks, UART communications, and aviation design concepts. We are planning to build one of the most efficient aeronautical vehicles ever created to bring a new age to space exploration and transportation. 
 
-[Home Page](https://www.starkdrones.org)  
+[Home Page](http://starkdrones.com)  
 [QuantPortal](https://aiqaunt.co)  
 [Lonero](https://lonero.org)  
 [Grants]()
